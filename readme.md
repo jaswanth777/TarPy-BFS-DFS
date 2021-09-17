@@ -12,7 +12,7 @@ The project contains following files
 
 * TarPy files
     * [platform_ubuntu.pl](./platform_ubuntu.pl "Tartarus")
-    * [call_handler.pl](./call_handler.py "call handler")
+    * [call_handler.pl](./call_handler.pl "call handler")
     * [Tartarus.py](./Tartarus.py "TarPy")
 * [graph.py](./graph.py "graph")
 * [dft_behavior.py](./dft_behavior.py "dft behavior")
